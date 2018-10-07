@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/DavidMoranchel/teleton/issues"
   },
-  "homepage": "https://github.com/DavidMoranchel/teleton#readme"
+  "homepage": "https://github.com/DavidMoranchel/teleton#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "rethinkdb": "^2.3.3"
+  }
 }
