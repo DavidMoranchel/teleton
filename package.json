@@ -4,7 +4,8 @@
   "description": "Visualisar la data del teleton para hacerla transparente",
   "main": "app.js",
   "scripts": {
-    "test": "init"
+    "start": "node app.js",
+    "test": ""
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/DavidMoranchel/teleton#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "rethinkdb": "^2.3.3"
+    "rethinkdb": "^2.3.3",
+    "socket.io": "^2.1.1"
   }
 }
