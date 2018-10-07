@@ -1,0 +1,19 @@
+{
+  "name": "teleton",
+  "version": "1.0.0",
+  "description": "Visualisar la data del teleton para hacerla transparente",
+  "main": "app.js",
+  "scripts": {
+    "test": "init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidMoranchel/teleton.git"
+  },
+  "author": "David Moranchel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidMoranchel/teleton/issues"
+  },
+  "homepage": "https://github.com/DavidMoranchel/teleton#readme"
+}
